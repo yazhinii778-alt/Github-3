@@ -1,0 +1,7 @@
+**Short GitHub version (5 very short lines):**
+
+* Focuses on AI and Machine Learning
+* Strong base in programming and data science
+* Hands-on projects and practical learning
+* Covers DL, NLP, and computer vision
+* Prepares students for AI careers
